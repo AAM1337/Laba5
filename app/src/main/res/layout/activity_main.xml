@@ -60,7 +60,8 @@
             android:id="@+id/radioButton"
             android:layout_width="105dp"
             android:layout_height="53dp"
-            android:text="$ 75 руб" />
+            android:text="$ 75 руб"
+            android:checked="true"/>
 
         <RadioButton
             android:id="@+id/radioButton2"
